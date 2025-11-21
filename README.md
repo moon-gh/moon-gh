@@ -2,9 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=d1d1d1&height=120&text=문건희&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 화공생명공학과 + AI교육</li><li>> 의료인공지능 </div> 
-    </div>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+        가천대 화공생명공학과 졸업 (2016.03 ~ 2024.02)<br>
+        솔트룩스 멀티모달 교육 (2024.10 ~ 2025.03)<br>
+        의료인공지능
+    </div> 
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
