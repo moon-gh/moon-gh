@@ -52,8 +52,9 @@
 <br>
 
 <div>
-    <a href="https://hits.seeyoufarm.com">
-        <img src="https://profile-counter.glitch.me/moon-gh/count.svg" />
+    <img src="https://profile-counter.glitch.me/mingh-count/count.svg" />
+</div>
+
 
 
 </a>
