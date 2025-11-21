@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=d1d1d1&height=120&text=문건희&animation=fadeIn&fontColor=000000&fontSize=70" width="300"/>
 </div>
 
-<p align = "center">
+<p align = "left">
 <img src = "https://blog.kakaocdn.net/dna/cFwyl7/btrSWbCfptV/AAAAAAAAAAAAAAAAAAAAAH0SiSbrNoSMT1Q_-STCtILslJyKr1UsesNNKBZAiVJK/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Wlo5Nh7vOMKOeli8peDWVEQ0nDQ%3D" width="300">
 </p>
 
