@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=d1d1d1&height=120&text=문건희&animation=fadeIn&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=d1d1d1&height=120&text=문건희&animation=fadeIn&fontColor=000000&fontSize=70" width="300"/>
 </div>
 
 <p align = "center">
