@@ -53,7 +53,8 @@
 
 <div>
     <a href="https://hits.seeyoufarm.com">
-        <img src="https://api.countapi.xyz/hit/moon-gh/github">
+        <img src="https://profile-counter.glitch.me/moon-gh/count.svg" />
+
 
 </a>
 
