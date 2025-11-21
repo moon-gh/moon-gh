@@ -3,7 +3,7 @@
 </div>
 
 <p align = "center">
-<img src = "https://blog.kakaocdn.net/dna/cFwyl7/btrSWbCfptV/AAAAAAAAAAAAAAAAAAAAAH0SiSbrNoSMT1Q_-STCtILslJyKr1UsesNNKBZAiVJK/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Wlo5Nh7vOMKOeli8peDWVEQ0nDQ%3D">
+<img src = "https://blog.kakaocdn.net/dna/cFwyl7/btrSWbCfptV/AAAAAAAAAAAAAAAAAAAAAH0SiSbrNoSMT1Q_-STCtILslJyKr1UsesNNKBZAiVJK/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Wlo5Nh7vOMKOeli8peDWVEQ0nDQ%3D" width="300">
 </p>
 
 <br>
