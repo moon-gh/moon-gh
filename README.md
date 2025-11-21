@@ -1,8 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=9cdcf7&height=180&text=문건희&animation=fadeIn&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=d1d1d1&height=120&text=문건희&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 문건희 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 화공생명공학과 + AI교육</li><li>> 의료인공지능 </div> 
     </div>
     <div style="text-align: left;">
