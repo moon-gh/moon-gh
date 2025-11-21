@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
         가천대 화공생명공학과 졸업 (2016.03 ~ 2024.02)<br>
         솔트룩스 멀티모달 교육 (2024.10 ~ 2025.03)<br>
-        의료인공지능
+        -> 의료 + 인공지능
     </div> 
 </div>
     <div style="text-align: left;">
