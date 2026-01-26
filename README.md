@@ -6,36 +6,8 @@
 <img src = "https://blog.kakaocdn.net/dna/cFwyl7/btrSWbCfptV/AAAAAAAAAAAAAAAAAAAAAH0SiSbrNoSMT1Q_-STCtILslJyKr1UsesNNKBZAiVJK/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Wlo5Nh7vOMKOeli8peDWVEQ0nDQ%3D" width="300">
 </p>
 
-<br>
+<img width="274" height="302" alt="image" src="https://github.com/user-attachments/assets/417bdf95-6975-4ee8-8bab-bd5137557080" />
 
-<table>
-<tr>
-    <td>중앙대 의료인공지능학과 대학원</td>
-    <td>(2026.03 ~ )</td>
-</tr>
-<tr>
-    <td>솔트룩스 x 청년취업사관학교 멀티모달 교육</td>
-    <td>(2024.10 ~ 2025.03)</td>
-</tr>
-<tr>
-    <td>sk쉴더스 x 청년취업사관학교 보안교육</td>
-    <td>(2023.10 ~ 2024.03)</td>
-</tr>
-<tr>
-    <td>가천대 화공생명공학과 졸업</td>
-    <td>(2016.03 ~ 2024.02)</td>
-</tr>
-<tr>
-    <td>경복고등학교 졸업</td>
-    <td>(2013.03 ~ 2016.02)</td>
-</tr>
-</table>
-
-    
-    
-</div>
-
-<br>
 
 <!-- TECH STACKS -->
 <div align="left">
