@@ -10,12 +10,15 @@
 
 <!-- 소개 -->
 <div align="left" style="font-weight:700; font-size:15px; color:#c9d1d9;">
-    중앙대 의료인공지능학과 대학원&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2026.03 ~ )<br>
-    솔트룩스 x 청년취업사관학교 멀티모달 교육&nbsp;&nbsp;(2024.10 ~ 2025.03)<br>
-    sk쉴더스 x 청년취업사관학교 보안교육&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2023.10 ~ 2024.03)<br>
-    가천대 화공생명공학과 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2016.03 ~ 2024.02)<br>
-    경복고등학교 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2013.03 ~ 2016.02)<br>
+<pre>
+중앙대 의료인공지능학과 대학원           (2026.03 ~ )
+솔트룩스 x 청년취업사관학교 멀티모달 교육  (2024.10 ~ 2025.03)
+sk쉴더스 x 청년취업사관학교 보안교육      (2023.10 ~ 2024.03)
+가천대 화공생명공학과 졸업              (2016.03 ~ 2024.02)
+경복고등학교 졸업                     (2013.03 ~ 2016.02)
+</pre>
 </div>
+
 
 
 <br>
