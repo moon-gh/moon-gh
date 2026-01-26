@@ -29,27 +29,14 @@
 
 <br>
 
-<!-- CONTACT -->
-<div align="left">
-    <h2 style="border-bottom:1px solid #21262d; color:#c9d1d9;">🧑‍💻 Contact me</h2>
-    <br>
-    <div>
-        <a href="https://velog.io/@mo_ongh">
-            <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white">
-        </a>
-        <a href="https://www.notion.so/AI-128b3c4f69c980f18ac3c15b0e350131">
-            <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
-        </a>
-        <a href="mailto:mo.ongh0210@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
-        </a>
-    </div>
+<div align="left" style="font-weight:700; font-size:15px; color:#c9d1d9;">
+    중앙대 의료인공지능학과 대학원&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2026.03 ~ )<br>
+    솔트룩스 x 청년취업사관학교 멀티모달 교육&nbsp;&nbsp;(2024.10 ~ 2025.03)<br>
+    sk쉴더스 x 청년취업사관학교 보안교육&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2023.10 ~ 2024.03)<br>
+    가천대 화공생명공학과 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2016.03 ~ 2024.02)<br>
+    경복고등학교 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2013.03 ~ 2016.02)<br>
+</div>
 
-<br>
-
-<!-- <div>
-    <img src="https://profile-counter.glitch.me/mingh-count/count.svg" />
-</div> -->
 
 
 
