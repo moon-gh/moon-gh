@@ -6,8 +6,19 @@
 <img src = "https://blog.kakaocdn.net/dna/cFwyl7/btrSWbCfptV/AAAAAAAAAAAAAAAAAAAAAH0SiSbrNoSMT1Q_-STCtILslJyKr1UsesNNKBZAiVJK/img.gif?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1764514799&allow_ip=&allow_referer=&signature=Wlo5Nh7vOMKOeli8peDWVEQ0nDQ%3D" width="300">
 </p>
 
-<img width="274" height="302" alt="image" src="https://github.com/user-attachments/assets/417bdf95-6975-4ee8-8bab-bd5137557080" />
+<br>
 
+<!-- 소개 -->
+<div align="left" style="font-weight:700; font-size:15px; color:#c9d1d9;">
+    중앙대 의료인공지능학과 대학원&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2026.03 ~ )<br>
+    솔트룩스 x 청년취업사관학교 멀티모달 교육&nbsp;&nbsp;(2024.10 ~ 2025.03)<br>
+    sk쉴더스 x 청년취업사관학교 보안교육&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2023.10 ~ 2024.03)<br>
+    가천대 화공생명공학과 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2016.03 ~ 2024.02)<br>
+    경복고등학교 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2013.03 ~ 2016.02)<br>
+</div>
+
+
+<br>
 
 <!-- TECH STACKS -->
 <div align="left">
@@ -29,14 +40,27 @@
 
 <br>
 
-<div align="left" style="font-weight:700; font-size:15px; color:#c9d1d9;">
-    중앙대 의료인공지능학과 대학원&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2026.03 ~ )<br>
-    솔트룩스 x 청년취업사관학교 멀티모달 교육&nbsp;&nbsp;(2024.10 ~ 2025.03)<br>
-    sk쉴더스 x 청년취업사관학교 보안교육&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2023.10 ~ 2024.03)<br>
-    가천대 화공생명공학과 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2016.03 ~ 2024.02)<br>
-    경복고등학교 졸업&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2013.03 ~ 2016.02)<br>
-</div>
+<!-- CONTACT -->
+<div align="left">
+    <h2 style="border-bottom:1px solid #21262d; color:#c9d1d9;">🧑‍💻 Contact me</h2>
+    <br>
+    <div>
+        <a href="https://velog.io/@mo_ongh">
+            <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white">
+        </a>
+        <a href="https://www.notion.so/AI-128b3c4f69c980f18ac3c15b0e350131">
+            <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+        </a>
+        <a href="mailto:mo.ongh0210@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white">
+        </a>
+    </div>
 
+<br>
+
+<!-- <div>
+    <img src="https://profile-counter.glitch.me/mingh-count/count.svg" />
+</div> -->
 
 
 
@@ -56,4 +80,4 @@
 </div>
 
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
